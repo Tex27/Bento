@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://www.notion.so/tex9999/Programming-609209bd08b74ed1934182bec195b2b4',
 		},
 		{
 			id: '4',
@@ -83,16 +83,16 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
+			name: 'Spotify',
 			icon: 'headphones',
 			link: 'https://open.spotify.com',
 		},
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Main Playlist',
+					link: 'https://open.spotify.com/playlist/56Ulppib5yoXcHWqoLSeKv?si=5b1b0e098a5c4c62',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hype',
+					link: 'https://open.spotify.com/playlist/0DlnrbPw037U1hFgzFOuUs?si=80dd584774fc4d72',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sad Shit',
+					link: 'https://open.spotify.com/playlist/1htnoCTCGkuqTbwLBih0io?si=a822255e53514853',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Blend',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1EJGiGtwz1Y4dy?si=e2d75f4ecd1f4815',
 				},
 			],
 		},
@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Notion',
+					link: 'https://www.notion.so',
 				},
 				{
 					name: 'Dribbble',
